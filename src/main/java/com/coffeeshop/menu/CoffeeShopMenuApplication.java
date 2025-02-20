@@ -17,9 +17,10 @@ public class CoffeeShopMenuApplication {
     
         System.out.println("Product ID: " + espresso.getId() + " Product Name: " + espresso.getName() + " Product Price: " + espresso.getPrice());
         System.out.println("Product ID: " + croissant.getId() + " Product Name: " + croissant.getName() + " Product Price: " + croissant.getPrice());
-        
+       /* 
         // Clean shutdown
         int exitCode = SpringApplication.exit(context, () -> 0);
         System.exit(exitCode);
+    */
     }
 }
