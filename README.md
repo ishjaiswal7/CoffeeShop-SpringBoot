@@ -92,4 +92,9 @@ This project showcases the evolution of a Spring Boot web application:
 ✅ **Migrated to Thymeleaf for better templating**  
 ✅ **Integrated JPA for full database-driven functionality**  
 
-This transition **made the project more scalable, maintainable, and dynamic**. 🚀  
+This transition **made the project more scalable, maintainable, and dynamic**. 🚀
+
+## 📚 Reference
+
+I built this application alongside the course: [Full-Stack Web Development on Coursera](https://www.coursera.org/learn/fullstack-web-development?specialization=amazon-junior-software-developer).
+
